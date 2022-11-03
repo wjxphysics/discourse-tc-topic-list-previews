@@ -1,3 +1,9 @@
+just to test modified some code:
+1. remove transform when hover over topic in topic list
+	modified: common/common.scss
+2. remove preventdefaut from click event to enable clickable
+	modified: javascripts/discourse/components/tlp-featured-topic.js.es6
+
 # discourse-tc-topic-list-previews
 
 Theme Component which allows you to customise the layout for many of the Topic Lists across Discourse, fundamentally adding thumbnail previews and excerpts from Topics, a featured topics images banner and a user portfolio (aka user wall).
