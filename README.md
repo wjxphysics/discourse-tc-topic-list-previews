@@ -1,7 +1,12 @@
 just to test modified some code:
 1. remove transform when hover over topic in topic list
 	modified: common/common.scss
-2. remove preventdefaut from click event to enable clickable
+2. change thumbnail position to under topic title
+	modified: 
+		javascripts/discourse/templates/list/topic-list-item.hbr
+		javascripts/discourse/templates/mobile/list/topic-list-item.hbr	
+3. enable clickable
+	TBD
 
 # discourse-tc-topic-list-previews
 
