@@ -2,7 +2,7 @@
     "name": "Topic List Previews Modified",
     "about_url": "",
     "component": true,
-    "authors": "Robert Barrow, Angus Mcleod",
+    "authors": "Robert Barrow, Angus Mcleod, wjx",
     "modifiers": {
       "csp_extensions": ["script_src: https://unpkg.com"],
       "svg_icons": ["images"],

@@ -71,6 +71,7 @@ export default Ember.Component.extend({
   },
 
   click(e) {
+    e.preventDefault();
     DiscourseUrl.routeTo(this.get('href'));
   }
 });

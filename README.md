@@ -2,7 +2,6 @@ just to test modified some code:
 1. remove transform when hover over topic in topic list
 	modified: common/common.scss
 2. remove preventdefaut from click event to enable clickable
-	modified: javascripts/discourse/components/tlp-featured-topic.js.es6
 
 # discourse-tc-topic-list-previews
 
